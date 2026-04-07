@@ -1,6 +1,5 @@
 {
-  "name": "sds",
-  "private": true,
+  "name": "@green-mountain-growth/sds",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
